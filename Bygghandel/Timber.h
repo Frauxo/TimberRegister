@@ -1,6 +1,5 @@
-//Emil Hallin
-//DV1519 - Inlämningsuppgift A
-//2017-02-03
+//Created by Emil Hallin
+//Modified 2019-09-09
 
 #ifndef TIMBER_H
 #define TIMBER_H
