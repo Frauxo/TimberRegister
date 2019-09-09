@@ -1,0 +1,6 @@
+Dimension: 200x30	Running Metre: 10	Price per running meter: 5.490000
+Dimension: 150x25	Running Metre: 20	Price per running meter: 6.390000
+Dimension: 400x35	Running Metre: 30	Price per running meter: 10.150000
+Dimension: 75x10	Running Metre: 50	Price per running meter: 4.660000
+Dimension: 80x15	Running Metre: 55	Price per running meter: 14.630000
+Dimension: 70x20	Running Metre: 30	Price per running meter: 7.550000
